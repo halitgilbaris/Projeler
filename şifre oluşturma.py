@@ -1,22 +1,29 @@
-import random
-import string
+flag = False
+şifre = ""
 
-rakamlar = string.digits
-semboller = string.punctuation
-kucuk_harfler = string.ascii_lowercase
-buyuk_harfler = string.ascii_uppercase
-tum_karakterle = [rakamlar, semboller, kucuk_harfler,buyuk_harfler]
+sayılar = "abcçdefgğhiıjklmnoöprsştuüvyz0123456789_-?\*=}])}])&{[(/%+$#'!é<>|.:,;"
 
-sifre = ""
-
-for j in range(4):
-    for i in range(2):
-        sifre += tum_karakterle[j][random.randint(0, 9)]
-
-
-sifre = list(sifre)
-random.shuffle
-yeni_sifre = ""
-yeni_sifre = yeni_sifre.join(sifre)
-
-input(yeni_sifre)
+for basamak0 in sayılar:
+    for basamak1 in sayılar:
+        for basamak2 in sayılar:
+            for basamak3 in sayılar:
+                for basamak4 in sayılar:
+                    for basamak5 in sayılar:
+                        for basamak6 in sayılar:
+                            deneme = (basamak0+basamak1+basamak2+basamak3+basamak4+basamak5+basamak6)
+                            print(deneme)
+                            if deneme == şifre:
+                                print("Parolanız: " + deneme)
+                                flag = True
+                        if flag == True:
+                            break
+                    if flag == True:
+                        break
+                if flag == True:
+                    break
+            if flag == True:
+                break
+        if flag == True:
+            break
+    if flag == True:
+        break
