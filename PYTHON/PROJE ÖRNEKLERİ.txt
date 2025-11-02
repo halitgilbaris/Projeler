@@ -1,0 +1,37 @@
+4️⃣ Sayı Tahmin Oyunu
+
+Bilgisayar 1-100 arasında sayı tutsun (import random)
+
+Kullanıcı tahmin etsin → while döngüsü devam etsin
+
+Tahmin küçük/ büyük → kullanıcıyı yönlendir (if-else)
+
+Tahmin doğru → kaç denemede bildiğini yaz (return)
+
+
+
+
+
+
+5️⃣ Basit Kütüphane (Kitap Takip)
+
+dict kullan → kitap adı → yazar
+
+Menü: 1-Kitap Ekle, 2-Kitap Sil, 3-Kitapları Listele
+
+for ile dict yazdır
+
+Bonus: Kitapları yazar adına göre sıralama (lambda ile sort)
+
+
+
+
+
+
+💡 Öneri:
+
+Önce küçük proje seç, bitir → sonra bir sonraki
+
+Her projede en az 3–4 öğrendiğin konsepti kullan
+
+Kod yazarken kafanda “bunu return ile döndürebilir miyim?” veya “lambda ile kısaltabilir miyim?” sorusu olsun
