@@ -1,1 +1,1 @@
-
+Hey selam ben Barış HALİTGİL şuanda 17 yaşındayım ve İstanbul beykent üniversitesinde yazılım mühendisliği 1. sınıfım ve C++'da ilk projem açıkcası Biraz uğraştırdı ğythondaki gibi kolay değil biraz karmaşik ama şuanda alişabildim proje yaptıkça alişacağimi umuyorum.
