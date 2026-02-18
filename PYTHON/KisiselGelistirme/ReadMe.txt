@@ -1,0 +1,1 @@
+Bu Projenin Sadece Backend kismi yapilmistir nun disindaki GUI kismi tamamen yapayzeka le yapilmistir.

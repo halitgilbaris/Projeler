@@ -1,0 +1,16 @@
+{
+    "karakter": {
+        "level": 10,
+        "xp": 55,
+        "xp_limit": 150,
+        "son_giris_tarihi": "2026-02-19",
+        "streak": 2
+    },
+    "istatistikler": {
+        "zeka": 294,
+        "guc": 51,
+        "disiplin": 6,
+        "odak": 14
+    },
+    "gecmis_kayitlar": []
+}
